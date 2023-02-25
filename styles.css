@@ -1,0 +1,122 @@
+body {
+    text-align: center;
+}
+.head {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 481px;
+    width: 100%;
+    background-color: #5BC0F8;
+}
+.sun {
+    width: 52px;
+    position: absolute;
+    right: 10px;
+    top: 7px;
+}
+.name {
+    position: relative;
+    margin-top: 1em;
+    margin-bottom: .5em;
+    font-family: Satisfy, cursive;
+    font-weight: 300;
+    color: #000000;
+    font-size: 3.5em;
+}
+.web-dev {
+    position: relative;
+    margin-top: 0px;
+    font-size: 1.2em;
+}
+.cloud {
+    position: absolute;
+    top: 80px;
+    left: 100px;
+}
+.wave {
+    position: absolute;
+    width: 300px;
+    top: 236px;
+    right: 355px;
+}
+.middle {
+    position: absolute;
+    top: 481px;
+    width: 100%;
+    height: 1500px;
+    left: 0px;
+    background-color: #0081C9;
+    font-family: jost;
+}
+.logo {
+    width: 250px;
+}
+.code {
+    width: 200px;
+}
+.programming {
+    width: 200px;
+}
+.profile {
+    position: absolute;
+    top:100px;
+    bottom: 100px;
+    right: 110px;
+}
+.shark {
+    position: absolute;
+    width: 100px;
+    left: 150px;
+    top: 172px;
+}
+.skills {
+    position: absolute;
+    top: 525px;
+    left: 110px;
+}
+.shark2 {
+    position: absolute;
+    width: 100px;
+    right: 200px;
+    top: 630px;
+}
+.skill-row {
+    position: absolute;
+    bottom: 100px;
+    right: 110px;
+}
+.shark3 {
+    position: absolute;
+    width: 100px;
+    left: 160px;
+    top: 1200px;
+}
+.bottom {
+    position: absolute;
+    top: 1981px;
+    width: 100%;
+    height: 145px;
+    background-color: #5BC0F8;
+    left: 0px;
+}
+.get-in {
+    position: absolute;
+    top: 6px;
+    font-size: 30px;
+    left: 428px;
+    font-family: Satisfy;
+}
+.LinkenIn,
+.email,
+.Discord {
+    position: relative;
+    top: 85px;
+    margin: 0px 5px 0px 0px;
+    font-size: 18px;
+}
+.cpr  {
+    position: relative;
+    top: 100px;
+    font-size: 10px;
+}
